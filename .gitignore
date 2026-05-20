@@ -1,0 +1,13 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+img/
+result/
+
+# Model Weights & Datasets besar
+*.bin
+*.pt
+*.safetensors
+*.pkl
+*.json
